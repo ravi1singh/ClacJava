@@ -1,7 +1,6 @@
 package com.calculator;
 
 public class Calculator {
-//some
 	public static void main(String[] args){
 		System.out.println("6 + 3 = " + add(6, 3));
 		System.out.println("6 - 3 = " + subtract(6,3));
